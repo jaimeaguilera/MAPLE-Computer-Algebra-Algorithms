@@ -1,0 +1,9 @@
+M7R0
+I&primit+6%'%"fG%(polynomG'%"gGF''%"pG%(integerG6'%#r0G%#r1G%#r2G%#n0G%#n1G6"F3
+C&@$50-I(contentG6$%*protectedG%(_syslibG6#9$"""0-F96#9%F?Y*0%'algunoGF?%#deGF?
+%$losGF?%+polinomiosGF?%#noGF?%#esGF?%*primitivoGF?@%2-%'degreeGF=-FPFBC$>8$FC>
+8%F>C$>FTF>>FVFC>6$8'8(6$-FP6#FT-FP6#FV@'/9#""#C$?(F3F?F?F30FV""!C'>8&-I)primpa
+rtG6$F;F<6#*&)-%'lcoeffGF\o,(FfnF?Fgn!""F?F?F?-I$remG6$F;F<6%FTFV%"xGF?>FTFV>FV
+Fgo>FfnFin>FgnF[oOFT/F_o""$C&>FT-%$modG6$FT9&>FV-Faq6$FVFcq?(F3F?F?F3FcoC'>Fgo-
+Faq6$-%)PrimpartG6#-Faq6$*&F]pF?-I$RemG6$F;F<FepF?FcqFcq>FTFV>FVFgo>FfnFin>FgnF
+[oOFTY**%&datosGF?FGF?%(entradaGF?%*err|^w|^vneosGF?F3F3F36#F]qF3

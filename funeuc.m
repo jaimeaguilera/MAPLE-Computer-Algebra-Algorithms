@@ -1,0 +1,10 @@
+M7R0
+I)euclidesf+6"F$6#%)overloadGF$m%t+6%'%"aG%(integerG'%"bGF,'%"pGF,6%%#r0G%#r1G%
+#r2GF%F$@'/9#""#C&>8$9$>8%9%?(F$"""FAF$0F>""!C%>8&-%%iremG6$F;F>>F;F>>F>FFOF;/F
+7""$C&>F;-%$modG6$F<9&>F>-FR6$F?FT?(F$FAFAF$FBC%>FF-FR6$FGFT>F;-FR6$F>FT>F>-FR6
+$FFFTO-FR6$F;FTY**%&datosGFA%#deGFA%(entradaGFA%*err|^w|^vneosGFAF$F$F$6#FNt+6$
+'F+-%(complexG6#F,'F.FjoF1F%F$C%>FI6$F<F??(F$FAFAF$FBC%>FF-&I)GaussIntG6$%*prot
+ectedG%(_syslibG6#%&GIremGFI>F;F>>F>FFOF;F$F$F$6#F8t+6%'F+%(polynomG'F.FcqF/F1F
+%F$C%@'FMC$>F;FQ>F>FVF6>FIF`pY%BN|^w|evmero~incorrecto~de~par|^w|\umetrosG?(F$F
+AFAF$FBC%@%F6>FF-I$remG6$FhpFip6%F;F>%"xG>FF-FR6$-I$RemG6$FhpFipFdrFT>F;F>>F>FF
+@%F6O*&F;FA-%'lcoeffG6#F;!""@%/-%'degreeGFcsFCOFAOF;F$F$F$6#FNF$F$F$F$F$

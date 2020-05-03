@@ -1,0 +1,17 @@
+M7R0
+I'extendf+6"F$6#%)overloadGF$m%t+6%'%"aG%(integerG'%"bGF,'%"pGF,6-%#r0G%#r1G%#r
+2G%#s0G%#s1G%#s2G%#t0G%#t1G%#t2G%"qG%"zGF%F$C$>6&8'8*8(8+6&"""""!FFFE@'/9#""#C%
+>6$8$8%6$9$9%?(F$FEFEF$0FOFFC'>8--%%iquoGFM>8&,&FNFE*&FWFEFOFE!"">8),&F@FE*&FWF
+EFBFEFhn>8,,&FAFE*&FWFEFCFEFhn>6(FNFOF@FBFAFC6(FOFenFBFjnFCF^o@%2FNFFO6%,$FNFhn
+,$F@Fhn,$FAFhnO6%FNF@FA/FI""$C'>FN-%$modG6$FQ9&>FO-Fbp6$FRFdp?(F$FEFEF$FTC'>FW-
+Fbp6$FXFdp>Fen-Fbp6$FfnFdp>Fjn-Fbp6$F[oFdp>F^o-Fbp6$F_oFdp>FboFcoZ%>8.-Fbp6$*$F
+NFhnFdpQCthe~modular~inverse~does~not~existF$>FiqFEO6%-Fbp6$*&FNFEFiqFEFdp-Fbp6
+$*&F@FEFiqFEFdp-Fbp6$*&FAFEFiqFEFdpY**%&datosGFE%#deGFE%(entradaGFE%*err|^w|^vn
+eosGFEF$F$F$6#F^pt+6$'F+-%(complexG6#F,'F.Fds6,F2F3F4F5F6F7F8F9F:F;F%F$C&>F?FD>
+FMFP?(F$FEFEF$FTC'>FW-&%)GaussIntG6#%&GIquoGFM>Fen-&Fat6#%&GIremGFM>FjnF[o>F^oF
+_o>FboFcoOF\pF$F$F$6#FJt+6%'F+%(polynomG'F.FauF/6.F2F3F4F5F6F7F8F9F:F;F<%"kGF$F
+$C$>F?FD@'FHC%>FMFP?(F$FEFEF$FTC'>FW-%$quoG6%FNFO%"xG>Fen-%$remGF_v>FjnF[o>F^oF
+_o>FboFcoO6%*&FNFE-%'lcoeffG6#FNFhn*&F@FEFjvFhn*&FAFEFjvFhnF]pC'>FNFap>FOFfp?(F
+$FEFEF$FTC'>FW-Fbp6$-I$QuoG6$%*protectedG%(_syslibGF_vFdp>Fen-Fbp6$-I$RemG6$Fjw
+F[xF_vFdp>FjnFaq>F^oFdq>FboFco>Fiq-Fbp6$*$FjvFhnFdpO6%-Fbp6$-I'ExpandG6$FjwF[x6
+#FcrFdp-Fbp6$-F^y6#FfrFdp-Fbp6$-F^y6#FirFdpYF[sF$F$F$6#F^pF$F$F$F$F$
